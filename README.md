@@ -1,5 +1,9 @@
 # Weather_Station_Dashboard
-Weather Station Dashboard using Dash/plotly, pandas, python
-![Screenshot (66)](https://user-images.githubusercontent.com/63055601/182415029-f624e28c-f132-4336-ba17-41d4d2fd0a6f.png)
-![Screenshot (67)](https://user-images.githubusercontent.com/63055601/182415047-1fc87906-60e6-4310-9f29-51d6b7aa95f8.png)
-![Screenshot (68)](https://user-images.githubusercontent.com/63055601/182415063-258aba92-a9a6-4840-bb5d-7600e1f8d9b0.png)
+Weather Station Dashboard using Dash/plotly, pandas, python, numPy
+SYNOP and AWS are the station from which the weather data is received, AWS is the automated so it send data every hour whereas SYNOP is manual way therefore it takes 3 hour for the file to come to database
+DRMS is the whole week data
+Whole Dashboard shows a week data, every new day data gets push on and previous one gets of the the dashboard.
+below are the pictures for the dashboard
+![Screenshot (70)](https://user-images.githubusercontent.com/63055601/188281979-de1dda10-7f43-401f-be09-f417e8069a5b.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/63055601/188281986-a881d290-3976-4bc0-9d30-49d15e60d51e.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/63055601/188281989-78e25809-03b5-4317-94a6-5efa3837b4b4.png)
