@@ -4,6 +4,6 @@ SYNOP and AWS are the station from which the weather data is received, AWS is th
 DRMS is the whole week data
 Whole Dashboard shows a week data, every new day data gets push on and previous one gets of the the dashboard.
 below are the pictures for the dashboard
-![Screenshot (70)](https://user-images.githubusercontent.com/63055601/188281979-de1dda10-7f43-401f-be09-f417e8069a5b.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/63055601/188282067-f08e21ce-18cc-408e-888f-7b78c5925ddd.png)
 ![Screenshot (71)](https://user-images.githubusercontent.com/63055601/188281986-a881d290-3976-4bc0-9d30-49d15e60d51e.png)
 ![Screenshot (72)](https://user-images.githubusercontent.com/63055601/188281989-78e25809-03b5-4317-94a6-5efa3837b4b4.png)
